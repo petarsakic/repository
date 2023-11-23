@@ -1,0 +1,123 @@
+body{
+    background-color:red;
+    }
+    
+    .logo{
+    height:150px;
+    width:400px;
+    background-color:red;
+     }
+     
+    .tekstL {
+    position:absolute;
+    top:30px;
+    left:130px;
+    color:rgb(0, 0, 0);
+    }
+
+    .naslov{
+    height:730px;
+    width:1070px;
+    left:415px;
+    background-color:red;
+    position:absolute;
+    }
+
+    .navigacija{
+    height:575px;
+    width:400px;
+    background-color:red;
+    position:absolute;
+    top:170px;
+    }
+
+    .ispis{
+    height:550px;
+    width:1000px;
+    background-color:yellow;
+    position:absolute;
+    top:170px;
+    left:450px;
+    }
+
+    .ispis2{
+    height:540px;
+    width:990px;
+    background-color:orange;
+    position:absolute;
+    top:5px;
+    left:5px;
+    }
+
+    .naziv{
+    height:100px;
+    width:400px;
+    left:460px;
+    background-color:blue;
+    position:absolute;
+    top:35px;
+    }
+
+    .naziv2{
+    height:90px;
+    width:390px;
+    left:465px;
+    background-color:red;
+    position:absolute;
+    top:40px;  
+    }
+
+    .tekst1{
+    position:absolute;
+    top:5px;
+    left:100px;
+    color:black;
+    }
+    
+    .tekst2{
+    position:absolute;
+    top:5px;
+    left:30px;
+    color:white;
+    }
+
+    .slika{
+    position:absolute;
+    top:220px;
+    left:600px;
+    }
+
+    .link{
+    position:absolute;
+    height:400px;
+    width:200px;
+    top:160px;
+    left:50px;
+    text-align:center;
+    }
+    .link1{
+    position:absolute;
+    height:300px;
+    width:310px;
+    top:30px;
+    left:0px;
+    text-align:center;
+    }
+    .link2{
+    position:absolute;
+    height:300px;
+    width:310px;
+    top:80px;
+    left:0px;
+    text-align:center;
+    }
+    .link3{
+    position:absolute;
+    height:300px;
+    width:310px;
+    top:130px;
+    left:0px;
+    text-align:center;
+    }
+
+    
